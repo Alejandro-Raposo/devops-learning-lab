@@ -15,3 +15,7 @@ build/
 
 # IDE
 .vscode/
+
+#Git runners
+actions-runner
+
