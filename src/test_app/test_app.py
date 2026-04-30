@@ -1,4 +1,4 @@
-from app import divide
+from src.app.app import divide
 
 def test_divide():
     assert divide(10, 2) == 5
